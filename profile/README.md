@@ -1,4 +1,4 @@
-# MRIS LLC
+MRIS LLC
 
 ### Technology • Software • AI • Education
 
